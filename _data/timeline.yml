@@ -17,45 +17,59 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: IIT Guwahati
+  title-url: https://www.iitg.ac.in/eee/imagegroup.html
+  date: June 2021 - Aug 2021
+  subtitle: Computer Vision Intern
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Tensorflow
+    - tag: Retina-Face
+    - tag: Anchor Boxes
+    - tag: RetinaNet
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Jadavpur University
+  title-url: http://www.jaduniv.edu.in/view_department.php?deptid=59
+  date: Mar 2021 - Present
+  subtitle: Deep Learning Research Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Tensorflow
+    - tag: Numpy
+    - tag: Seaborn
+    - tag: Pandas
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: IEEE SB NIT Durgapur
+  title-url: https://www.ieeesbnitdgp.com
+  date: Dec 2019 - Present
+  subtitle: Web Developer cum Executive Member
+  tags:
+    - tag: Django
+    - tag: Django-Rest-Framework
+    - tag: HTML
+    - tag: CSS
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: NIT Durgapur
+  title-url: https://nitdgp.ac.in/
+  date: 2019 - 2023
+  subtitle: B.Tech. Electrical Engineering
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: CGPA-9.11
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+# - title: Facebook
+#   title-url: https://example.com/
+#   date: Sep 2017 - Mar 2019
+#   subtitle: Front-End Developer as Intern
+#   tags:
+#     - tag: React
+#     - tag: Node
+#     - tag: Javascript
+#   timeline-side: right
+
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left
