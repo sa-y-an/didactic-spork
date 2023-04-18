@@ -1,0 +1,108 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+
+# - title: SuperShare
+#   title-url: https://ssup.co/
+#   date: January 2023 - Present
+#   subtitle: Backend Developer
+#   descr: Building a multiplayer internet, one that isn't lonely !
+#   tags:
+#     - tag: GoLang
+#     - tag: Kafka
+#     - tag: Docker
+#     - tag: Postgress
+#   timeline-side: left
+
+# - title: PharmIQ
+#   title-url: https://pharmiq.co/
+#   date: August 2022 - December 2022
+#   subtitle: Backend Developer
+#   descr: Worked on improving the scrapper, build various intelligent platforms using ML and AI. Integrated ML into various products. Improved their search engine using lucene.
+#   tags:
+#     - tag: GoLang
+#     - tag: Python
+#     - tag: MongoDB
+#     - tag: Machine Learning
+#     - tag: Lucene
+#   timeline-side: right
+
+
+
+- title: Krayonnz
+  title-url: https://www.krayonnz.com/
+  date: April 2022 - July 2022
+  subtitle: Backend Developer
+  descr: Worked on building the jobs API, and integrating it with the main site.
+  tags:
+    - tag: NodeJS
+    - tag: Javascript
+    - tag: MongoDB
+    - tag: Redis
+  timeline-side: left
+
+- title: IIT Guwahati
+  title-url: https://www.iitg.ac.in/eee/imagegroup.html
+  date: July 2021 - Sep 2021
+  subtitle: Computer Vision Intern
+  descr: Implemented a Neural Network Architecture for Face Detection in the Wild in Tensorflow 2
+  tags:
+    - tag: Tensorflow
+    - tag: Retina-Face
+    - tag: Anchor Boxes
+    - tag: RetinaNet
+  timeline-side: right
+
+- title: Jadavpur University
+  title-url: http://www.jaduniv.edu.in/view_department.php?deptid=59
+  date: Mar 2021 - Jun 2021
+  subtitle: Deep Learning Research Intern
+  descr: Worked on Advancing OMR systems by integrating deep learning technologies.
+  tags:
+    - tag: Tensorflow
+    - tag: Numpy
+    - tag: Seaborn
+    - tag: Pandas
+  timeline-side: left
+
+- title: IEEE SB NIT Durgapur
+  title-url: https://www.ieeesbnitdgp.com
+  date: Dec 2019 - Dec 2020
+  subtitle: Web Developer 
+  descr: Build club's treasure hunt website and college's research portal
+  tags:
+    - tag: Django
+    - tag: Django-Rest-Framework
+    - tag: PostgreSQL
+    - tag: Auth0
+  timeline-side: right
+
+- title: NIT Durgapur
+  title-url: https://nitdgp.ac.in/
+  date: 2019 - 2023
+  subtitle: B.Tech. Electrical Engineering
+  descr: Executive member of IEEE student branch, planned and sucessfully conducted various events.
+  tags:
+    - tag: CGPA-9.11
+  timeline-side: left
+
+# - title: Facebook
+#   title-url: https://example.com/
+#   date: Sep 2017 - Mar 2019
+#   subtitle: Front-End Developer as Intern
+#   tags:
+#     - tag: React
+#     - tag: Node
+#     - tag: Javascript
+#   timeline-side: right
+
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left
