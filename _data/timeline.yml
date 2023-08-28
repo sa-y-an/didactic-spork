@@ -7,37 +7,51 @@
 
 # Example of a timeline entry
 
-# - title: SuperShare
-#   title-url: https://ssup.co/
-#   date: January 2023 - Present
-#   subtitle: Backend Developer
-#   descr: Building a multiplayer internet, one that isn't lonely !
-#   tags:
-#     - tag: GoLang
-#     - tag: Kafka
-#     - tag: Docker
-#     - tag: Postgress
-#   timeline-side: left
+- title: Microsoft
+  title-url: https://microsoft.com/
+  date: July 2023 - Present
+  subtitle: Software Engineer
+  descr: Working on Azure Specialized India team
+  tags:
+    - tag: Python
+    - tag: Ansible
+    - tag: Docker
+    - tag: F#
+  timeline-side: right
 
-# - title: PharmIQ
-#   title-url: https://pharmiq.co/
-#   date: August 2022 - December 2022
-#   subtitle: Backend Developer
-#   descr: Worked on improving the scrapper, build various intelligent platforms using ML and AI. Integrated ML into various products. Improved their search engine using lucene.
-#   tags:
-#     - tag: GoLang
-#     - tag: Python
-#     - tag: MongoDB
-#     - tag: Machine Learning
-#     - tag: Lucene
-#   timeline-side: right
+
+
+- title: SuperShare
+  title-url: https://ssup.co/
+  date: January 2023 - May 2023
+  subtitle: Backend Developer Intern
+  descr: Building a multiplayer internet, one that isn't lonely !
+  tags:
+    - tag: GoLang
+    - tag: Kafka
+    - tag: Docker
+    - tag: Postgress
+  timeline-side: left
+
+- title: PharmIQ
+  title-url: https://pharmiq.co/
+  date: August 2022 - December 2022
+  subtitle: Backend Developer Intern
+  descr: Worked on improving the scrapper, build various intelligent platforms using ML and AI. Integrated ML into various products. Improved their search engine using lucene.
+  tags:
+    - tag: GoLang
+    - tag: Python
+    - tag: MongoDB
+    - tag: Machine Learning
+    - tag: Lucene
+  timeline-side: right
 
 
 
 - title: Krayonnz
   title-url: https://www.krayonnz.com/
   date: April 2022 - July 2022
-  subtitle: Backend Developer
+  subtitle: Backend Developer Intern
   descr: Worked on building the jobs API, and integrating it with the main site.
   tags:
     - tag: NodeJS

@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Sayan Mondal
 # description: This will be meta HTML tag content. This can be ignored.
-description: I am Sayan Mondal, an undergraduate at NIT Durgapur, pursuing Electrical Engineering. I have worked at Krayonnz as a backend developer intern working on building APIs using NodeJS, redis and mongo DB. Previously, I have freelanced as a Django developer, working on Django, DRF and PostgreSQL. I have also worked on state of the art research projects at IIT Guwahati and Jadavpur University. Currently I have the highest rating of 1790+ on leetcode and is rated among top 7% coders worldwide. I am looking forward to work at big tech companies like FAANGM.  
+description: I am Sayan Mondal, currently working as a Software Engineer at Microsoft. I have completed my graduation from National Institute of Technology, Durgapur.   
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -35,8 +35,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: My LifeStory
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Sayan Mondal, an undergraduate at NIT Durgapur, pursuing Electrical Engineering. Previously, I have interned at PharmIQ and Krayonnz as a Backend Developer. I have also worked on state of the art research projects at IIT Guwahati and Jadavpur University. 
-                      Currently, I am rated 1804 among top 7% coders world wide in LeetCode. 
+about_me_description: I am Sayan Mondal, currently working as a Software Engineer at Microsoft. 
+                      I have completed my graduation from National Institute of Technology, Durgapur. I love hearing podcasts, playing sports or learning history. 
 
 
 # SKILLS SECTION
