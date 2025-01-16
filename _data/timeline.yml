@@ -7,9 +7,18 @@
 
 # Example of a timeline entry
 
+- title: Google
+  title-url: https://cloud.google.com/?hl=en
+  date: July 2025 - Present
+  subtitle: Software Engineer - II
+  descr: Working on Google Cloud Observability
+  tags:
+    - tag: C++
+  timeline-side: left
+
 - title: Microsoft
   title-url: https://microsoft.com/
-  date: July 2023 - Present
+  date: July 2023 - Jan 2025
   subtitle: Software Engineer
   descr: Working on Azure Specialized India team
   tags:
@@ -18,8 +27,6 @@
     - tag: Docker
     - tag: F#
   timeline-side: right
-
-
 
 - title: SuperShare
   title-url: https://ssup.co/
