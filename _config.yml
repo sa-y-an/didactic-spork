@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Sayan Mondal
 # description: This will be meta HTML tag content. This can be ignored.
-description: I am Sayan Mondal, currently working as a Software Engineer at Microsoft. I have completed my graduation from National Institute of Technology, Durgapur.   
+description: I am Sayan Mondal, currently working as a Software Engineer at Google. I have previously worked at Microsoft, and few other startups.   
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: Sayan Mondal
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: AI Researcher. Developer | React, Django & TensorFlow
+typing_text: AI Researcher. Developer | SWE @Google, ex - Microsoft
 # email: Your E-Mail address for the email button.
 email: dgpmondal@gmail.com
 # For every social button you want to display, set your username or userid
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: My LifeStory
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Sayan Mondal, currently working as a Software Engineer at Microsoft. 
+about_me_description: I am Sayan Mondal, currently working as a Software Engineer at Google. I previously worked at Microsoft, and few other startups. 
                       I have completed my graduation from National Institute of Technology, Durgapur. I love hearing podcasts, playing sports or learning history. 
 
 
@@ -56,7 +56,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1226Tly3djsWOhY-EIgU996i42XWuRyFS/view?usp=sharing
+cv_download_link: https://drive.google.com/file/d/1yV2DGGwk5Sy1J5HJJEPvS5UOBMRxF46s/view?usp=sharing 
 
 # PROJECTS SECTION
 # show_projects_card:
